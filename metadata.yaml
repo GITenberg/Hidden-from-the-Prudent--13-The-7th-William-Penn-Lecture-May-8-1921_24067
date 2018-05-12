@@ -1,0 +1,27 @@
+_repo: Hidden-from-the-Prudent--13-The-7th-William-Penn-Lecture-May-8-1921_24067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Paul
+    birthdate: 1880
+    deathdate: 1941
+    gutenberg_agent_id: '26220'
+    url: http://www.gutenberg.org/2009/agents/26220
+description: ''
+gutenberg_issued: '2007-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24067'
+language: en
+publication_note: 'Philadelphia :  Walter H. Jenkins, Printer,  1921'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Christian life'
+title: "Hidden from the Prudent\r\nThe 7th William Penn Lecture, May 8, 1921"
+url: http://www.gutenberg.org/ebooks/24067
