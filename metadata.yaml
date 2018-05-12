@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26220'
     url: http://www.gutenberg.org/2009/agents/26220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24067#Hidden-from-the-Prudent--13-The-7th-William-Penn-Lecture-May-8-1921
 gutenberg_issued: '2007-12-29'
 gutenberg_type: Text
 identifiers:
